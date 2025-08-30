@@ -1,8 +1,7 @@
-#include <stdio.h>
+#inclide<stido.h>  --- IGNORE ---
+   int mian() {  --- IGNORE ---
+    prntf("Hello, World!\n");  --- IGNORE ---
+   prntf(" i am  chand \n");  --- IGNORE ---
     
- int main() {
-       printf("Hello, World!\n");
-       printf(" i am  chand \n");
-   
-    return 0;
-}
+     return 0;
+ }  --- IGNORE ---
